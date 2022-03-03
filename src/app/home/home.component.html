@@ -1,0 +1,21 @@
+<div class="container">
+    <div class="row">
+        <div class="col-sm-3 mt-4" *ngFor="let article of articles">
+            <mat-card class="example-card">
+                <img mat-card-image class="card-image" [src]="article.urlToImage" alt="Article Photo">
+                <mat-card-content>
+                  <p>
+                   {{article.description}}<a [href]="article.url" class="text-decoration-none text-primary" target="_blank"> Read more...</a>
+                  </p>
+                </mat-card-content>
+                <p class="text-secondary m-0">{{article.source.name}}</p>
+                <p class="text-secondary mt-1">Posted: {{article.publishedAt | date: 'medium'}}</p>
+                <mat-card-actions>
+                  <button mat-button (click)="AddFavorite(article)" *ngIf="isLoggedIn && !IsArticleInUserFavorites(article.title)">FAVOURITE<span><mat-icon class="px-1 mt-2">favorite</mat-icon></span>
+                  </button>
+                  <p *ngIf="IsArticleInUserFavorites(article.title)" class="text-center text-primary">Added to favorites</p>
+                </mat-card-actions>
+              </mat-card>
+        </div>
+    </div>
+</div>

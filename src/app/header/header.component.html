@@ -1,0 +1,14 @@
+<mat-toolbar color="primary">
+  <span>News App</span>
+  <a routerLink="/home" class="text-light">
+    <mat-icon class="px-4 align-middle">home</mat-icon>
+  </a>
+  <a routerLink="/favorites" class="text-light">
+        <mat-icon class="px-4 align-middle">favorite</mat-icon>
+  </a> 
+  <span class="example-spacer"></span>
+  <h6 *ngIf="isLoggedIn" class="mx-4">Welcome {{userData['firstname'] | uppercase}} {{userData['lastname'] | uppercase}} </h6>
+  <a routerLink="/register" mat-icon-button class="text-light mx-4 text-decoration-none" *ngIf="!isLoggedIn">Register</a>
+  <a routerLink="/login" mat-icon-button class="text-light mx-4 text-decoration-none" *ngIf="!isLoggedIn">Login</a>
+  <button mat-icon-button (click)="LogoutUser()" *ngIf="isLoggedIn"><a class="text-decoration-none text-light">Logout</a></button>
+</mat-toolbar>

@@ -1,0 +1,64 @@
+{
+  "favorites": [
+    {
+      "source": {
+        "id": null,
+        "name": "The Texas Tribune"
+      },
+      "author": "Patrick Svitek",
+      "title": "U.S. Rep. Van Taylor ends reelection campaign after he admits to affair - The Texas Tribune",
+      "description": "Taylor made the stunning announcement hours after he finished his five-way primary with 49% of the vote. Former Collin County Judge Keith Self, who finished second, is now likely to become the next congressman for the 3rd District.",
+      "url": "https://www.texastribune.org/2022/03/02/van-taylor-reelection/",
+      "urlToImage": "https://thumbnails.texastribune.org/_QpNIvXqWZikqPYA4vTtOW9SO3Q=/1200x630/filters:quality(95)/static.texastribune.org/media/files/cb21d16b8a6b4bc43973d805d02b6e23/Van%20Taylor%20House%20Floor%202017%20BD%20TT%2001.jpg",
+      "publishedAt": "2022-03-02T21:32:05Z",
+      "content": "Sign up for The Brief, our daily newsletter that keeps readers up to speed on the most essential Texas news.\r\nU.S. Rep. Van Taylor, R-Plano, has decided to end his reelection campaign after he was fo… [+3795 chars]",
+      "email": "james@gmail.com",
+      "id": 22
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "ESPN"
+      },
+      "author": "Marc Raimondi",
+      "title": "Cain Velasquez, former UFC heavyweight champion, charged with attempted murder - ESPN",
+      "description": "Former UFC heavyweight champ Cain Velasquez was charged with attempted premeditated murder and multiple gun assault charges. Said Santa Clara County DA Jeff Rosen: \"The sad tragedy is that Mr. Velasquez chose to take the law into his own hands.\"",
+      "url": "https://www.espn.com/mma/story/_/id/33407302/cain-velasquez-former-ufc-heavyweight-champion-charged-attempted-murder",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2016%2F1224%2Fr165780_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-03-02T21:47:40Z",
+      "content": "Editor's note: This story contains details that may be disturbing for some readers.\r\nFormer UFC heavyweight champion Cain Velasquez was formally charged Wednesday with attempted premeditated murder a… [+3285 chars]",
+      "email": "james@gmail.com",
+      "id": 23
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Andrew Myrick",
+      "title": "The March 2022 Google System Update is chock-full of changes - Android Central",
+      "description": "Google's first update for March 2022 has arrived",
+      "url": "https://www.androidcentral.com/phones/the-march-2022-google-system-update-is-chock-full-of-changes",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/9g6rAgFYbDZdK26eKRPVZi-1200-80.jpg",
+      "publishedAt": "2022-03-02T19:32:41Z",
+      "content": "What you need to know\r\n<ul><li>Google has released the March 2022 System Updates.</li><li>These updates are available for all Android devices, not just Pixel phones.</li><li>The update will arrive th… [+3318 chars]",
+      "email": "james@gmail.com",
+      "id": 24
+    },
+    {
+      "source": {
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
+      },
+      "author": "Natalie Oganesyan",
+      "title": "Kim Kardashian Is Now Legally Single After Her Split With Kanye West, And Her Birth Name Will Be Restored - BuzzFeed",
+      "description": "The legal split comes a year after Kim first filed for divorce.",
+      "url": "https://www.buzzfeed.com/natalieoganesyan/kim-kardashian-legally-single-kanye-west-maiden-name",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2022-03/2/21/enhanced/3fdff994548e/original-794-1646255088-42.jpg?crop=1581:830;0,0%26downsize=1250:*",
+      "publishedAt": "2022-03-02T21:19:02Z",
+      "content": null,
+      "email": "james@gmail.com",
+      "id": 25
+    }
+  ]
+}
